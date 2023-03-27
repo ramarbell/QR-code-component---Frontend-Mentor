@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="style.css" /> 
+  
+
+<title>Frontend Mentor | QR code component</title>
+  
+  
+    
+    
+  
+</head>
+<main>
+<body>
+<div class="box1">
+<img src= "image-qr-code.png"   alt="QR code image from Frontend Mentor "/>
+<h1 class="thick-font">Improve your front-end skills by building projects</h1>
+  <p class="normal-font">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+
+</div> 
+ </main>
+  <footer> 
+  <p> Challenge by <a href="https://www.frontendmentor.io"> Frontend Mentor </a>. Coded by Ramar Bell. </p>
+<footer/>
+
+    
+</body>
+</html>
