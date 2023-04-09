@@ -18,17 +18,18 @@ font-size: 15px;
 font-weight: 700;
 text-align: center;
 position: relative;
-top: 60%;
+top: 62%;
 
 }
 
 .normal-font {
+opacity: 0.4;
 font-family: 'Outfit', sans-serif;
 font-size: 15px;
 font-weight: 400;
 text-align: center;
 position: relative;
-top: 60%
+top: 63%
 }       
 
 img {
