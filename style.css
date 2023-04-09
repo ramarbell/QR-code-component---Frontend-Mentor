@@ -39,3 +39,8 @@ width: 200px;
 position: absolute;
 padding: 10px;
 }
+
+footer {
+   position: fixed;
+   bottom: 1em;
+}
